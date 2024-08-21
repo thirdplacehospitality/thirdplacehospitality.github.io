@@ -39,9 +39,9 @@ header {
 
 .header-logo {
     position: absolute;
-    top: 15px; /* Adjust top spacing based on your design needs */
-    left: 15px; /* Adjust left spacing based on your design needs */
-    height: 100px; /* Adjust size as needed */
+    top: 10px; /* Adjust top spacing based on your design needs */
+    left: 10px; /* Adjust left spacing based on your design needs */
+    height: 80px; /* Adjust size as needed */
     width: auto;
 }
 
